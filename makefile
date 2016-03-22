@@ -6,4 +6,4 @@ program1:
 clean:
 	rm -f iptrace
 run:
-	./iptrace cap-feb-6
+	-./iptrace ip-trace-1
